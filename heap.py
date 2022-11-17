@@ -1,4 +1,4 @@
-#Heap de maximo é de minimo com as operações de inserção, remoção e troca de prioridade
+#Heap de maximo é de minimo com as operações de inserção, remoção e troca de prioridade.
 
 class Heap:
     def __init__(self, tipo):
